@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54EA8035-64BB-4E50-AC95-85953BE53A57}|TestProject1\\TestProject1.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EA8035-64BB-4E50-AC95-85953BE53A57}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Data\\Migrations\\20251101081636_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication8\\Data\\Migrations\\20251101081636_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Migrations\\20251101081534_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication8\\Migrations\\20251101081534_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EA8035-64BB-4E50-AC95-85953BE53A57}|TestProject1\\TestProject1.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\testproject1\\tetst2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EA8035-64BB-4E50-AC95-85953BE53A57}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\tetst2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\controllers\\reliefprojectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\reliefprojectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EA8035-64BB-4E50-AC95-85953BE53A57}|TestProject1\\TestProject1.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EA8035-64BB-4E50-AC95-85953BE53A57}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\models\\reliefproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\reliefproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\views\\donations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\views\\donations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\views\\donations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\views\\donations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\controllers\\disasterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\disasterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\models\\disaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\disaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\data\\migrations\\20251101055925_logins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\data\\migrations\\20251101055925_logins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\migrations\\20251101054556_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\migrations\\20251101054556_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\data\\giftofgiverscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\data\\giftofgiverscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\models\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|c:\\users\\chick\\source\\repos\\webapplication8\\webapplication8\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32705E9-DE52-4DD9-A7EB-B121A7FD7B08}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication8\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T06:58:26.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\TestProject1\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test1.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\TestProject1\\Test1.cs",
+              "RelativeToolTip": "TestProject1\\Test1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:26:41.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251101081534_init.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Migrations\\20251101081534_init.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Migrations\\20251101081534_init.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Migrations\\20251101081534_init.cs",
+              "RelativeToolTip": "WebApplication8\\Migrations\\20251101081534_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:15:35.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\TestProject1\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TestProject1\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\TestProject1\\MSTestSettings.cs",
+              "RelativeToolTip": "TestProject1\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:25:53.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReliefProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Controllers\\ReliefProjectsController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\ReliefProjectsController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Controllers\\ReliefProjectsController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\ReliefProjectsController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAH8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:49:59.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251101081636_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Data\\Migrations\\20251101081636_initialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Data\\Migrations\\20251101081636_initialCreate.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Data\\Migrations\\20251101081636_initialCreate.cs",
+              "RelativeToolTip": "WebApplication8\\Data\\Migrations\\20251101081636_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:16:36.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Controllers\\DonationsController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\DonationsController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Controllers\\DonationsController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\DonationsController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwEcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:49:25.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Program.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Program.cs",
+              "RelativeToolTip": "WebApplication8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:44:12.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T05:51:12.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication8\\appsettings.json",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\appsettings.json",
+              "RelativeToolTip": "WebApplication8\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-01T05:43:15.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tetst2.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\TestProject1\\Tetst2.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Tetst2.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\TestProject1\\Tetst2.cs",
+              "RelativeToolTip": "TestProject1\\Tetst2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:47:52.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DisastersController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Controllers\\DisastersController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\DisastersController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Controllers\\DisastersController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\DisastersController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAGMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:48:47.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReliefProject.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\ReliefProject.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\ReliefProject.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\ReliefProject.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\ReliefProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:38:27.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VolunteersController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Controllers\\VolunteersController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\VolunteersController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Controllers\\VolunteersController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\VolunteersController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:50:39.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20251101055925_logins.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Data\\Migrations\\20251101055925_logins.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Data\\Migrations\\20251101055925_logins.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Data\\Migrations\\20251101055925_logins.cs",
+              "RelativeToolTip": "WebApplication8\\Data\\Migrations\\20251101055925_logins.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:59:28.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Views\\Donations\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Views\\Donations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Views\\Donations\\Create.cshtml",
+              "RelativeToolTip": "WebApplication8\\Views\\Donations\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T06:09:55.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Views\\Donations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Views\\Donations\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Views\\Donations\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication8\\Views\\Donations\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T06:10:19.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20251101054556_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Migrations\\20251101054556_initialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Migrations\\20251101054556_initialCreate.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Migrations\\20251101054556_initialCreate.cs",
+              "RelativeToolTip": "WebApplication8\\Migrations\\20251101054556_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:45:56.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Disaster.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\Disaster.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\Disaster.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\Disaster.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\Disaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:38:05.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GiftOfGiversContext.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Data\\GiftOfGiversContext.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Data\\GiftOfGiversContext.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Data\\GiftOfGiversContext.cs",
+              "RelativeToolTip": "WebApplication8\\Data\\GiftOfGiversContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:41:38.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\Resource.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\Resource.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\Resource.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\Resource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:38:37.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:38:46.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Volunteer.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\Volunteer.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\Volunteer.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\Volunteer.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\Volunteer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:38:55.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\Donation.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\Donation.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\Donation.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\Donation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:38:16.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\WebApplication8\\WebApplication8\\Models\\Assignment.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:39:51.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
